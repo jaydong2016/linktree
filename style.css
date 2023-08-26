@@ -56,7 +56,7 @@ body {
     position: relative;
     background-color: transparent;
     color: var(--accentColor);
-    border: 2px solid rgba(var(--accentColor), 0.5);
+    border: solid rgba(0, 255, 0, 0.5) 2px;
     border-radius: 10px;
     font-size: 1rem;
     text-align: center;
